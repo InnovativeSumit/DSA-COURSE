@@ -4,7 +4,7 @@ Welcome to the ultimate **DSA (Data Structures & Algorithms) Course**, designed 
 
 
 💻 **Ready to take your coding skills to the next level?**  
-👉 [Enroll Now]() and start your journey toward tech excellence.
+👉 [Enroll Now](https://innovativesumit.github.io/DSA-COURSE/) and start your journey toward tech excellence.
 
 ## 📌 Why This Course is a MUST for You
 
@@ -46,6 +46,11 @@ Welcome to the ultimate **DSA (Data Structures & Algorithms) Course**, designed 
 - 📂 Course access is for personal use only. Redistribution is strictly prohibited.  
 - ✅ Payment confirms your acceptance of all terms & conditions.  
 - 📌 Make sure to review course details carefully before proceeding.
+
+## Connect With Me
+Stay updated with the latest developments, tutorials, and community discussions!
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
 
 
