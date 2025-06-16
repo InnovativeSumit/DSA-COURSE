@@ -47,6 +47,10 @@ Welcome to the ultimate **DSA (Data Structures & Algorithms) Course**, designed 
 - ✅ Payment confirms your acceptance of all terms & conditions.  
 - 📌 Make sure to review course details carefully before proceeding.
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ## Connect With Me
 Stay updated with the latest developments, tutorials, and community discussions!
 
